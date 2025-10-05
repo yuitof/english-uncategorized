@@ -1,0 +1,1 @@
+- For example, do not assume that because your program is running on Darwin that you are therefore working on a case-insensitive filesystem (HFS+), as the user may be using a case-sensitive filesystem (HFSX). 

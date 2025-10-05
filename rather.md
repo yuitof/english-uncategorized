@@ -1,0 +1,1 @@
+- Our applications can now run for hours inside a browser, rather than being just a few form validation rules or simple scripts.

@@ -1,0 +1,1 @@
+- HTTP requests are received by the Node.js HTTP server and handed over to the application code via the registered request handler. The server does not parse the content of the request body. Therefore any DoS caused by the contents of the body after they are handed over to the request handler is not a vulnerability in Node.js

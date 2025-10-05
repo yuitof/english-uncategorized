@@ -1,0 +1,1 @@
+- Here are some values for this header for some popular servers, once these servers are configured to support accelerated file sending:

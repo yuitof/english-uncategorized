@@ -1,0 +1,1 @@
+- You could use an after_deliver to record the delivery of the message. It also allows observer/interceptor-like behaviors, but with access to the full mailer context.

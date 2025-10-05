@@ -1,0 +1,1 @@
+- For example a test and thus a functionality of your product could pass when NODE_ENV is set to development but fail when setting NODE_ENV to production. 

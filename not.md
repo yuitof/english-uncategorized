@@ -1,0 +1,1 @@
+- The trick to adding these back in is that, by default, they are passed session_options when added (including the session key), so you can't just add a session_store.rb initializer, add use ActionDispatch::Session::CookieStore and have sessions functioning as usual. 

@@ -1,0 +1,3 @@
+- You have a huge opportunity because we know how hard it is to fully, deeply learn a programming language, and by using the same language to perform all your work on the web - both on the client and on the server, you're in a unique position of advantage.
+
+- Secondly, not everything must be typed explicitly—TypeScript infers types for us. For example, the variable isJustineAnAdult is of type boolean even if we didn't type it explicitly, and justine would be a valid argument for our function even though we didn't declare this variable as of User type.

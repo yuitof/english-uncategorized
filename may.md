@@ -1,0 +1,1 @@
+- While that will take a few minutes to complete, in another shell we may run a script that takes Node.js' module zlib, that wraps around another compression tool, gzip(1).

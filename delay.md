@@ -1,0 +1,1 @@
+- In other words, useEffect “delays” a piece of code from running until that render is reflected on the screen.

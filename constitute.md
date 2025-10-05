@@ -1,0 +1,1 @@
+- What constitutes as best practice is non-contradictory practice.

@@ -1,0 +1,1 @@
+Once users with SHA1 digested signed cookies should no longer have a chance to have their cookies rewritten, remove the rotation.

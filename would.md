@@ -1,0 +1,1 @@
+- For instance to change the digest used for signed cookies from SHA1 to SHA256, you would first assign the new configuration value:

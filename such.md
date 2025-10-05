@@ -1,0 +1,1 @@
+- The application using the ABI must be compiled such that the available addresses, expected parameter values, and memory structure sizes and layouts agree with those with which the ABI provider was compiled. 
