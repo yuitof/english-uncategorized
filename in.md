@@ -5,3 +5,5 @@
 - If one of your API clients is a browser, you might want to add one of these back in:
 
 - Exceptions come in different types, and the type is printed as part of the message: the types in the example are ZeroDivisionError, NameError and TypeError.
+
+- The third layer copies in an application’s specific requirements.txt file.
