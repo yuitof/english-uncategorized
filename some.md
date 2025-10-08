@@ -1,0 +1,1 @@
+- In the other direction, going west, it is some ten minutes to Sakura Park, and walking northward from there brings you toward Harlem, along the Hudson, though traffic makes the river on the other side of the trees inaudible.
